@@ -1,5 +1,3 @@
-## Welcome to awparr.com
-
 There's not much to see here yet.
 
 Maybe you are looking for:
